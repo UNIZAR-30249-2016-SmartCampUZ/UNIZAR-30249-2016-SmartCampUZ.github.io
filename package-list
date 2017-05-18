@@ -1,2 +1,6 @@
+es.unizar.smartcampuz.application.controller
+es.unizar.smartcampuz.application.database
+es.unizar.smartcampuz.model
 es.unizar.smartcampuz.model.report
+es.unizar.smartcampuz.model.reservation
 es.unizar.smartcampuz.model.worker
